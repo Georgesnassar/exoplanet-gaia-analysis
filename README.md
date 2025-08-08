@@ -58,11 +58,3 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook FINAL.ipynb
 ```
-
-## 🔗 Live Preview
-You can view the notebook online without running code here:  
-**[Live HTML Version](https://yourusername.github.io/exoplanet-gaia-analysis/)**
-
----
-📧 **Contact:** your.email@example.com  
-💼 **Portfolio:** https://yourportfolio.com
