@@ -1,1 +1,1 @@
-# exoplanet-gaia-analysis
+# Exoplanet-gaia-analysis
